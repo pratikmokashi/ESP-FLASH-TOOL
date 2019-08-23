@@ -3,7 +3,7 @@
 ## USAGE
 - run python (can make exe | not tested)
 - add the path
-- click buttons as u like
+- click buttons as you like
 
 ## Features
 
