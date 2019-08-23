@@ -25,7 +25,7 @@
 - need to test with different ide
 - tested on linux + espidf + vscode
 
-## improvements
+## Improvements
 
 - add config file 
 - add more features
