@@ -1,3 +1,6 @@
+# ###############Project Depricated##############
+
+
 # ESP FLASH TOOL
 
 ## USAGE
